@@ -7,7 +7,6 @@ This repository provides pets and code for learning AI.
 
 ## Table of Contents
 #### Install
-* [PyTorch install]
 ## Getting Installed for eSpeak(http://espeak.sourceforge.net/)
 
 <br/>
@@ -24,7 +23,7 @@ $ pip3 install --upgrade google-api-python-client.      # install google api pyt
 <br/>
 
 ## Dependencies
-* [Python 2.7 or 3.5](https://www.continuum.io/downloads)
+* [Python 2.7 or 3.6](https://www.continuum.io/downloads)
 
 
 <br/>
